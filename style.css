@@ -1,0 +1,85 @@
+body {
+  text-align: center;
+  background-color: whitesmoke;
+}
+table {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  border-collapse: collapse;
+  margin-top: 2%;
+  margin-left: 10%;
+  width: 80%;
+  color: black;
+  background-color: white;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+table,
+th,
+td {
+  border-collapse: collapse;
+  text-align: center;
+  padding: 4px;
+}
+th {
+  font-weight: bold;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: mediumslateblue;
+  color: white;
+  text-align: center;
+}
+tr {
+  height: 4%;
+}
+
+.hidden {
+  display: none;
+}
+
+table tr:nth-child(odd) {
+  background-color: ghostwhite;
+}
+
+table tr:hover {
+  background-color: #ddd;
+}
+
+#loadBtn,
+#refreshBtn {
+  color: white;
+  border: 2px solid black;
+  border-radius: 2px;
+  background-color: #0275d8;
+  padding: 10px 20px;
+  font-size: 20px;
+  /* background-color: #89cff0;
+  color: #fff;*/
+  margin-top: 2%; 
+}
+#refreshBtn {
+  margin-left: 45%;
+}
+
+#Edit,
+#Delete,
+#createBtn {
+  border-radius: 5%;
+  font-size: 90%;
+}
+#Edit {
+  background-color: dodgerblue;
+  margin: 6%;
+  width: 60%;
+  color: white;
+}
+#Delete {
+  background-color: #d9534f;
+  margin: 6%;
+  border: 1px solid white;
+  color: white;
+}
+input {
+  width: 95%;
+}

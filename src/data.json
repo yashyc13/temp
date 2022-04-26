@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "First Name": "Yash",
+    "Middle Name": "Rajendra",
+    "Last Name": "Chaudhari",
+    "Email": "demo1@gmail.com",
+    "Phone": "998765120",
+    "Role": "Super Admin",
+    "Address": "Pune"
+  },
+  { 
+    "id": "2",
+    "First Name": "Aditya",
+    "Middle Name": "Kiran",
+    "Last Name": "Bhagwat",
+    "Email": "demo2@gmail.com",
+    "Phone": "8855665588",
+    "Role": "Admin",
+    "Address": "Mumbai"
+  },
+  {
+    "id": "3",
+    "First Name": "Gauri",
+    "Middle Name": "Kishan",
+    "Last Name": "Verma",
+    "Email": "demo3@gmail.com",
+    "Phone": "8855665588",
+    "Role": "Subscriber",
+    "Address": "Pune"
+  },
+  {
+    "id": "4",
+    "First Name": "Puja",
+    "Middle Name": "Aditya",
+    "Last Name": "Bhagwat",
+    "Email": "demo4@gmail.com",
+    "Phone": "8855665588",
+    "Role": "Subscriber",
+    "Address": "Hyderabad"
+  },
+  {
+    "id": "5",
+    "First Name": "Akshay",
+    "Middle Name": "Brijlal",
+    "Last Name": "Mahajan",
+    "Email": "demo5@gmail.com",
+    "Phone": "9988776655",
+    "Role": "Admin",
+    "Address": "Noida"
+  },
+  {
+    "id": "6",
+    "First Name": "Jayesh",
+    "Middle Name": "Ankiet",
+    "Last Name": "Shinde",
+    "Email": "demo6@gmail.com",
+    "Phone": "9977665544",
+    "Role": "Subscriber",
+    "Address": "Mohali"
+  }
+]
